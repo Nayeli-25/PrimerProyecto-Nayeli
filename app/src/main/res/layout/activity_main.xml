@@ -12,7 +12,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/minombre"
+        android:text="Bienvenida, @string/minombre"
         android:textSize="30dp"
         android:background="@color/colorAccent"
         android:textAlignment="center"
